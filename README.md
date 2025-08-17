@@ -8,5 +8,5 @@ This repository documents my journey from basic Python programming to building a
 
 ### 1. Tip Calculator
 - **Files**: `projects/tip_calculator/` `projects/tip_calculator1`
-- **Skills Learned**: 
+- **Skills Learned**: Conditional Logic and Control Flow, Data Types and Type Conversion,  User Input and Output, Mathematical Operations, Variable Management, Problem-Solving and Debugging, Code Organisation
 - **Status**: Complete
