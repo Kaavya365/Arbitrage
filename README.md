@@ -22,3 +22,8 @@ This repository documents my journey from basic Python programming to building a
   - Code Organisation (separating functions into individual programs, then combining them)
   - Problem-Solving and Debugging (handling invalid inputs gracefully)
 - **Status**: Complete
+
+### 3. Number Guessing Game  
+- **Files**: `Month1/number_guessing_game`
+- **Skills Learned**: Random Number Generation, Conditional Logic and Control Flow, Loops (while), User Input Handling, Debugging and Problem-Solving  
+- **Status**: Complete
