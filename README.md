@@ -32,3 +32,17 @@ This repository documents my journey from basic Python programming to building a
 - **Files**: `Month1/note_taking` 
 - **Skills Learned**: File Handling (create, write), Working with Dates and Timestamps (`datetime`), Directory Management (`os`), GUI Programming with Tkinter, Event-Driven Programming, User Input Handling, Code Organisation  
 - **Status**: Complete
+
+### 5. Quiz
+- **Files**: `Month1/quiz`
+- **Skills Learned**:
+    - Conditional Logic and Control Flow
+    - Loops (while True) and Break Conditions
+    - User Input Handling and String Normalisation (.strip().lower(), .strip().upper())
+    - Score Tracking with Counters and Percentages
+    - Branching Program Flow Based on Topic Choice
+    - Using Tuples to Store Question Banks, Options, and Answers
+    - Multiple-Choice Question Implementation
+    - Tracking and Displaying Both User Guesses and Correct Answers
+    - Building Interactive Console Applications with Clear Input–Output Flow
+- **Status**: Complete
