@@ -28,7 +28,7 @@ This repository documents my journey from basic Python programming to building a
 - **Skills Learned**: Random Number Generation, Conditional Logic and Control Flow, Loops (while), User Input Handling, Debugging and Problem-Solving  
 - **Status**: Complete
 
-### 2. Note Taking App  
+### 4. Note Taking App  
 - **Files**: `Month1/note_taking` 
 - **Skills Learned**: File Handling (create, write), Working with Dates and Timestamps (`datetime`), Directory Management (`os`), GUI Programming with Tkinter, Event-Driven Programming, User Input Handling, Code Organisation  
 - **Status**: Complete
