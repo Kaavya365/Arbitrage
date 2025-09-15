@@ -46,3 +46,33 @@ This repository documents my journey from basic Python programming to building a
     - Tracking and Displaying Both User Guesses and Correct Answers
     - Building Interactive Console Applications with Clear Input–Output Flow
 - **Status**: Complete
+
+## Month 2
+
+### 1. Contact Book
+- **Files**: `Month2/contact_book`
+- **Skills Learned:**
+  - Using Python Dictionaries for storing and managing key–value pairs
+  - Dictionary operations: add, delete, update, and lookup
+  - Accessing dictionary items with keys (contacts['kaavya'])
+  - Iterating through dictionaries with .items() in a for loop
+  - Dynamic program flow using user input (input(), .strip().lower())
+  - Handling missing keys gracefully with conditional checks
+  - Printing and formatting dictionary data with f-strings
+  - Designing an interactive console-based contact book
+- **Status**: Complete
+
+## 2. Pet Store Inventory System
+- **Files**: `Month2/pet_store_inventory`
+- **Skills Learned:**
+- Skills Learned:
+  - Using Python Dictionaries to manage data (pet → price)
+  - Performing operations on dictionaries: add, update, delete, and lookup
+  - Working with nested/complex dictionaries (storing pet details like age, breed, and vaccination status)
+  - Accessing values from nested dictionaries (pet_details["dog"]["breed"])
+  - Printing data cleanly with f-strings
+  - Building an interactive console program where customers can “buy” pets
+  - Iterating through dictionaries to display inventory (for pet, price in pet_prices.items())
+  - Using dictionary methods (.keys(), .values(), len())
+  - Designing a mini pet shop simulation with pricing, sales, and inventory updates
+- **Status**: Complete
