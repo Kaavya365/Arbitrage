@@ -62,10 +62,9 @@ This repository documents my journey from basic Python programming to building a
   - Designing an interactive console-based contact book
 - **Status**: Complete
 
-## 2. Pet Store Inventory System
+### 2. Pet Store Inventory System
 - **Files**: `Month2/pet_store_inventory`
 - **Skills Learned:**
-- Skills Learned:
   - Using Python Dictionaries to manage data (pet → price)
   - Performing operations on dictionaries: add, update, delete, and lookup
   - Working with nested/complex dictionaries (storing pet details like age, breed, and vaccination status)
@@ -75,4 +74,16 @@ This repository documents my journey from basic Python programming to building a
   - Iterating through dictionaries to display inventory (for pet, price in pet_prices.items())
   - Using dictionary methods (.keys(), .values(), len())
   - Designing a mini pet shop simulation with pricing, sales, and inventory updates
+- **Status**: Complete
+
+### 3. To Do List Manager
+- **Files**: `Month2/to_do_list_manager`
+- **Skills Learned:**
+  - Lists & basic data structures
+  - Functions (encapsulation of tasks: add, list, delete)
+  - Loops & program control flow
+  - User input validation (try/except, error handling)
+  - Indexing & enumerating lists
+  - Interactive command-line applications
+  - Modular coding (if __name__ == "__main__") for reusability
 - **Status**: Complete
