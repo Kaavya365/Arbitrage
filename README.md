@@ -87,3 +87,15 @@ This repository documents my journey from basic Python programming to building a
   - Interactive command-line applications
   - Modular coding (if __name__ == "__main__") for reusability
 - **Status**: Complete
+
+### 4. Expense Tracker App
+- **Files:** `Month2/expense_tracker.py`
+- **Skills Learned:**
+  - Lists & parallel data structures (expense_name, expense_type, expense_amount)
+  - Categorization & grouping of data (Groceries, Food, Clothing, etc.)
+  - Functions for modularity (addExp, listExp, deleteExp, totalExp)
+  - Control flow with loops and conditional branching
+  - Error handling for user input (try/except)
+  - Summation & aggregation of data (sum() for categories and totals)
+  - Building interactive menu-driven CLI applications
+- **Status:** Complete
