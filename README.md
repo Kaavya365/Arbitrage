@@ -99,3 +99,15 @@ This repository documents my journey from basic Python programming to building a
   - Summation & aggregation of data (sum() for categories and totals)
   - Building interactive menu-driven CLI applications
 - **Status:** Complete
+
+### 5. Expense Tracker App (Using Object Oriented Programming)
+- **Files**: `Month2/ExpenseTracker/expense_tracker.py` , `Month2/ExpenseTracker/expenses.py`
+- **Skills Learned:**
+  - Object-Oriented Programming (OOP) → creating and using classes (Expense class)
+  - File Handling → writing and reading expenses from CSV
+  - Data Aggregation → grouping expenses by category and summing amounts
+  - Datetime & Calendar Usage → calculating remaining days in the month, daily budget
+  - Budgeting Logic → tracking total spend vs. budget, remaining allowance
+  - User Input Handling → category selection with validation
+  - Code Modularity → splitting logic into multiple files for clean design
+- **Status**: Complete
