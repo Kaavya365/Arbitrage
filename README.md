@@ -111,3 +111,14 @@ This repository documents my journey from basic Python programming to building a
   - User Input Handling → category selection with validation
   - Code Modularity → splitting logic into multiple files for clean design
 - **Status**: Complete
+
+### 6. Quiz (With File Handling)
+- **Files** : `Month2/Quiz/quiz_with_file_management.py` , `Month2/Quiz/quiz1.csv`, `Month2/Quiz/quiz2.csv`, `Month2/Quiz/quiz3.csv`, `Month2/Quiz/quiz4.csv`, `Month2/Quiz/quiz5.csv`
+- **Skills Learned:**
+  - File handling with CSV (reading questions/options/answers from files)
+  - Mapping data structures (dict for quiz name → file mapping)
+  - Functions for modularity (get_user_choice, get_quiz_filename, run_quiz)
+  - Control flow with loops and conditional branching
+  - User input validation and error handling
+  - String parsing and formatting (splitting CSV lines into questions/options/answers)
+  - Score tracking and performance summary
