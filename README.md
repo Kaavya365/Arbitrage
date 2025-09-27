@@ -122,3 +122,17 @@ This repository documents my journey from basic Python programming to building a
   - User input validation and error handling
   - String parsing and formatting (splitting CSV lines into questions/options/answers)
   - Score tracking and performance summary
+- **Status:** Completed
+
+### 7. Personal Data Logger 
+- **Files**: `Month2/Personal_Data/personal_data_logger.py` , `Month2/Personal_Data/csv_to_excel`
+- **Skills Learned:**
+  - Collecting structured user input via CLI
+  - Data storage in CSV format (appending rows)
+  - String handling & input sanitization (strip())
+  - Writing dictionaries into CSV rows manually
+  - File handling (open, write, append)
+  - Converting CSV to Excel using pandas
+  - Preserving data types (e.g., phone number as string)
+  - End-to-end workflow: user input → CSV → Excel
+- **Status:** Completed
